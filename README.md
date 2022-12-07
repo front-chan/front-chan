@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00cec9&text=Welcome!&height=200&&animation=fadeIn&fontAlign=70&&desc=from.front-chan&&descAlign=43&&descAlignY=56)
 
-📚 이제 막 양쪽 양말 신은 개발자
+## 📚 이제 막 양쪽 양말 신은 개발자
 
 곧 신발 신을 날이 옵니다 Coming Soon.
 
