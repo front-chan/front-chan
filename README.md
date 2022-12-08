@@ -8,7 +8,7 @@
 
 ⬇️⬇️⬇️ 기존 velog 주소 ⬇️⬇️⬇️
 
-[![chan](https://img.shields.io/badge/chan-gold.svg?&style=flat&for-the-badge&logo=javascript&logoColor=#0D918F)](https://velog.io/@channn02)
+[![chan](https://img.shields.io/badge/chan-0D918F.svg?&style=flat&for-the-badge&logo=javascript&logoColor=black)](https://velog.io/@channn02)
 
 <!--
 <img alt="Html" src ="https://img.shields.io/badge/내용-배경색상6자리.svg?&style=for-the-badge&logo=icon이름&logoColor=로고색상"/>
