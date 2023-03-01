@@ -40,7 +40,7 @@
 
 #### SNS & Portfolio 📱
 
-[![chan](https://img.shields.io/badge/velog_chan-20C997.svg?&style=flat&for-the-badge&logo=velog&logoColor=white)](https://velog.io/@channn02) [![mail](https://img.shields.io/badge/gmail-EA4335.svg?&style=flat&for-the-badge&logo=gmail&logoColor=white)](chan.jor.zz@gmail.com) [![mail](https://img.shields.io/badge/Portfolio-005AF0.svg?&style=flat&for-the-badge&logo=AMP&logoColor=white)](https://front-chan.notion.site/_-4e53a28df8d54fad84c153ed23d51859)
+[![chan](https://img.shields.io/badge/velog_chan-20C997.svg?&style=flat&for-the-badge&logo=velog&logoColor=white)](https://velog.io/@channn02) [![mail](https://img.shields.io/badge/chan.jor.zz@gmail.com-EA4335.svg?&style=flat&for-the-badge&logo=gmail&logoColor=white)](chan.jor.zz@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-005AF0.svg?&style=flat&for-the-badge&logo=AMP&logoColor=white)](https://front-chan.notion.site/_-4e53a28df8d54fad84c153ed23d51859)
 
 <!--
 <img alt="Html" src ="https://img.shields.io/badge/내용-배경색상6자리.svg?&style=for-the-badge&logo=icon이름&logoColor=로고색상"/>
