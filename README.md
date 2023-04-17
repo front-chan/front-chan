@@ -48,14 +48,14 @@
 <img alt="Html" src ="https://img.shields.io/badge/adidas-40AEF0.svg?&style=for-the-badge&logo=adidas&logoColor=black"/> -->
 
 <br>
-
+<!-- 
 <a href="https://github.com/front-chan">
   <img align="center" width="390" src="https://github-readme-stats.vercel.app/api?username=front-chan&theme=graywhite&show_icons=true" />
 </a>
 <a href="https://github.com/front-chan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=front-chan&layout=compact&theme=graywhite" />
 </a>
-  <br>
+  <br> -->
   <br>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffront-chan&count_bg=%23181717&title_bg=%23181717&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
